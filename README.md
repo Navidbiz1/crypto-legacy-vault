@@ -1,3 +1,4 @@
+crypto, inheritance, blockchain, smart-contracts, web3, defi, ethereum
 # Crypto Legacy Vault 🔐
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
